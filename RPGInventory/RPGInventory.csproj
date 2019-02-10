@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Containers\BagClass.cs" />
+    <Compile Include="Containers\SackClass.cs" />
+    <Compile Include="Items\ItemClass.cs" />
+    <Compile Include="Items\PotionClass.cs" />
+    <Compile Include="Items\SwordClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
